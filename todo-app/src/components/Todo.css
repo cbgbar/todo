@@ -1,0 +1,7 @@
+.todo-title {
+    cursor: pointer;
+  }
+  
+  .list-group-item:hover {
+    background-color: #f8f9fa;
+  }
